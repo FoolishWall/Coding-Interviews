@@ -1,3 +1,5 @@
+package offer15;
+
 import java.util.Stack;
 
 /**
@@ -8,7 +10,8 @@ import java.util.Stack;
 public class CountNumberOf1 {
     //测试
     public static void main(String[] args) {
-        System.out.println(numberOf1_solution(10));
+        int n =9;
+
     }
     //常规解法
     //思路：将十进制转换为二进制入栈，接着遍历栈中1的个数
@@ -28,4 +31,5 @@ public class CountNumberOf1 {
         }
         return count;
     }
+
 }
