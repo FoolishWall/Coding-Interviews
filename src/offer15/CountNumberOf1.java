@@ -18,7 +18,7 @@ public class CountNumberOf1 {
         //System.out.println(string1);
 
         int n =-10;
-        System.out.println(numberOf1_solution3(n));
+        System.out.println(numberOf1_solution4(n));
 
     }
     //常规解法
@@ -84,6 +84,20 @@ public class CountNumberOf1 {
             n=(n-1)&n;
             count++;
         }
+        return count;
+    }
+
+    //牛客网上的解法，Integer.toBinaryString为将int整数转换为二进制字符串
+    private static int numberOf1_solution4(int n){
+        String str = Integer.toBinaryString(n);
+        int count = 0;
+        char [] nChar = str.toCharArray();
+        for (char aNChar : nChar) {
+            if (aNChar == '1') {
+                count++;
+            }
+        }
+
         return count;
     }
 
