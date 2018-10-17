@@ -75,11 +75,11 @@ public class RobertMoveCount {
         Stack<Integer> stack = new Stack<>();
         int sum = 0;
         //分别对行列数进行数位入栈
-        while (row%10!=0){
+        while (row!=0){
             stack.push(row%10);
             row=row/10;
         }
-        while (col%10!=0){
+        while (col!=0){
             stack.push(col%10);
             col=col/10;
         }
