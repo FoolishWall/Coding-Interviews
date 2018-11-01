@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="旋转数组的最小数字">
-      <change afterPath="$PROJECT_DIR$/src/offer48/MinWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer48/MinCover.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,20 +21,22 @@
     <session id="-1560443118">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6269" />
+          <entry key="JAVA" value="7118" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -42,14 +44,14 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6269" />
+          <entry key="java" value="7118" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
@@ -57,20 +59,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer47/GiftMaxValue.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/offer48/MinCover.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1755">
-              <caret line="65" column="51" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="51" />
+            <state relative-caret-position="567">
+              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/offer48/LongestSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+            <state relative-caret-position="765">
+              <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,20 +86,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/offer48/MinWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="1065">
+              <caret line="84" column="28" lean-forward="true" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer13/RobertMoveCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2079">
-              <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -136,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/offer47/GiftMaxValue.java" />
         <option value="$PROJECT_DIR$/src/offer48/LongestSubstring.java" />
         <option value="$PROJECT_DIR$/src/offer48/MinWindow.java" />
+        <option value="$PROJECT_DIR$/src/offer48/MinCover.java" />
       </list>
     </option>
   </component>
@@ -146,8 +143,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="431" />
-    <option name="y" value="299" />
+    <option name="x" value="446" />
+    <option name="y" value="308" />
     <option name="width" value="1292" />
     <option name="height" value="718" />
   </component>
@@ -188,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540825545608" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541038717967" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -206,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinWindow">
+  <component name="RunManager" selected="Application.MinCover">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -257,8 +254,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer48.MinWindow" />
+    <configuration name="MinCover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer48.MinCover" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -271,13 +268,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort_Core" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer11.Sort_Core" />
+    <configuration name="MinWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer48.MinWindow" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer11.*" />
+          <option name="PATTERN" value="offer48.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,19 +314,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Sort_Core" />
       <item itemvalue="Application.MergeSort" />
       <item itemvalue="Application.GiftMaxValue" />
       <item itemvalue="Application.LongestSubstring" />
       <item itemvalue="Application.MinWindow" />
+      <item itemvalue="Application.MinCover" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinCover" />
         <item itemvalue="Application.MinWindow" />
         <item itemvalue="Application.LongestSubstring" />
         <item itemvalue="Application.GiftMaxValue" />
         <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.Sort_Core" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +359,10 @@
       <workItem from="1540259060342" duration="23259000" />
       <workItem from="1540430098461" duration="9861000" />
       <workItem from="1540777034352" duration="7838000" />
-      <workItem from="1540817706005" duration="7674000" />
+      <workItem from="1540817706005" duration="8108000" />
+      <workItem from="1540865395670" duration="9000" />
+      <workItem from="1540898417714" duration="2948000" />
+      <workItem from="1541035281424" duration="3423000" />
     </task>
     <task id="LOCAL-00001" summary="旋转数组的最小数字">
       <created>1540278292468</created>
@@ -375,7 +375,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130091000" />
+    <option name="totallyTimeSpent" value="136905000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -390,7 +390,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1609808" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,14 +399,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19739696" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23427331" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.4099783" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.21475054" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.25921908" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.26138827" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.14642082" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.324295" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -610,8 +610,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offer48/MinWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="1065">
+          <caret line="84" column="28" lean-forward="true" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -620,8 +620,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offer48/LongestSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        <state relative-caret-position="765">
+          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer48/MinCover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
