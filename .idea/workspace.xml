@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="旋转数组的最小数字">
-      <change afterPath="$PROJECT_DIR$/src/offer62/LastRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer63/MaxProfit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,22 +21,22 @@
     <session id="-1560443118">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="4" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="29" />
+          <entry key="java" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11632" />
+          <entry key="JAVA" value="12632" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -44,38 +44,26 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="11632" />
+          <entry key="java" value="12632" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer21/ReorderOddEven.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/offer62/LastRemaining.java">
+        <entry file="file://$PROJECT_DIR$/src/offer63/MaxProfit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1620">
-              <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="459">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -125,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/offer19/RegexMatch.java" />
         <option value="$PROJECT_DIR$/src/offer21/ReorderOddEven.java" />
         <option value="$PROJECT_DIR$/src/offer62/LastRemaining.java" />
+        <option value="$PROJECT_DIR$/src/offer63/MaxProfit.java" />
       </list>
     </option>
   </component>
@@ -148,8 +137,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541473627200" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541569669179" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -189,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LastRemaining">
+  <component name="RunManager" selected="Application.MaxProfit">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -212,13 +201,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoreThanHalfNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer39.MoreThanHalfNum" />
+    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer63.MaxProfit" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer39.*" />
+          <option name="PATTERN" value="offer63.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,19 +289,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MoreThanHalfNum" />
       <item itemvalue="Application.RegexMatch" />
       <item itemvalue="Application.RegexApply" />
       <item itemvalue="Application.ReorderOddEven" />
       <item itemvalue="Application.LastRemaining" />
+      <item itemvalue="Application.MaxProfit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxProfit" />
         <item itemvalue="Application.LastRemaining" />
         <item itemvalue="Application.ReorderOddEven" />
         <item itemvalue="Application.RegexMatch" />
         <item itemvalue="Application.RegexApply" />
-        <item itemvalue="Application.MoreThanHalfNum" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +341,9 @@
       <workItem from="1541059895127" duration="8000" />
       <workItem from="1541125417284" duration="12038000" />
       <workItem from="1541401101164" duration="10705000" />
-      <workItem from="1541468035190" duration="5552000" />
+      <workItem from="1541468035190" duration="6366000" />
+      <workItem from="1541475421878" duration="615000" />
+      <workItem from="1541566042767" duration="3549000" />
     </task>
     <task id="LOCAL-00001" summary="旋转数组的最小数字">
       <created>1540278292468</created>
@@ -365,7 +356,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175116000" />
+    <option name="totallyTimeSpent" value="180094000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,7 +371,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17270789" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -389,14 +380,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27006507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2657267" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3557484" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.21475054" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.25921908" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.07049891" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.19848156" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.324295" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -610,9 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -648,26 +636,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="29" column="51" lean-forward="true" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offer21/ReorderOddEven.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offer62/LastRemaining.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1404">
+          <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer63/MaxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
