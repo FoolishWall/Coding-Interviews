@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="旋转数组的最小数字">
-      <change afterPath="$PROJECT_DIR$/src/offer63/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer61/PokerStraight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,12 +31,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="30" />
+          <entry key="java" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12632" />
+          <entry key="JAVA" value="13162" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -44,14 +44,14 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="30" />
+          <entry key="JAVA" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12632" />
+          <entry key="java" value="13162" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
@@ -59,11 +59,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/offer63/MaxProfit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="540">
+              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/offer61/PokerStraight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -114,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/offer21/ReorderOddEven.java" />
         <option value="$PROJECT_DIR$/src/offer62/LastRemaining.java" />
         <option value="$PROJECT_DIR$/src/offer63/MaxProfit.java" />
+        <option value="$PROJECT_DIR$/src/offer61/PokerStraight.java" />
       </list>
     </option>
   </component>
@@ -160,7 +170,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541569669179" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541575268587" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -178,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxProfit">
+  <component name="RunManager" selected="Application.PokerStraight">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -215,13 +225,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegexApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer20.RegexApply" />
+    <configuration name="PokerStraight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer61.PokerStraight" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer20.*" />
+          <option name="PATTERN" value="offer61.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,18 +300,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.RegexMatch" />
-      <item itemvalue="Application.RegexApply" />
       <item itemvalue="Application.ReorderOddEven" />
       <item itemvalue="Application.LastRemaining" />
       <item itemvalue="Application.MaxProfit" />
+      <item itemvalue="Application.PokerStraight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PokerStraight" />
         <item itemvalue="Application.MaxProfit" />
         <item itemvalue="Application.LastRemaining" />
         <item itemvalue="Application.ReorderOddEven" />
         <item itemvalue="Application.RegexMatch" />
-        <item itemvalue="Application.RegexApply" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +353,7 @@
       <workItem from="1541401101164" duration="10705000" />
       <workItem from="1541468035190" duration="6366000" />
       <workItem from="1541475421878" duration="615000" />
-      <workItem from="1541566042767" duration="3549000" />
+      <workItem from="1541566042767" duration="7992000" />
     </task>
     <task id="LOCAL-00001" summary="旋转数组的最小数字">
       <created>1540278292468</created>
@@ -356,7 +366,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180094000" />
+    <option name="totallyTimeSpent" value="184537000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,14 +390,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2657267" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26789588" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3557484" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.21475054" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.25921908" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.19848156" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.6030369" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.324295" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -655,8 +665,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offer63/MaxProfit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="540">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer61/PokerStraight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
