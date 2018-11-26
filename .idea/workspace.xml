@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="旋转数组的最小数字">
-      <change afterPath="$PROJECT_DIR$/src/offer27/TreeMirror.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer54/KthTreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="53" />
+          <entry key="java" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24749" />
+          <entry key="JAVA" value="25552" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -47,14 +47,14 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="53" />
+          <entry key="JAVA" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="24749" />
+          <entry key="java" value="25552" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
@@ -63,22 +63,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/offer27/TreeMirror.java">
+        <entry file="file://$PROJECT_DIR$/src/offer54/KthTreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="329">
+              <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer32/PrintFromTopToBottom.java">
+        <entry file="file://$PROJECT_DIR$/src/offer55/TreeDepth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="53" column="29" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="53" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="35" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -141,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/offer33/IsBST.java" />
         <option value="$PROJECT_DIR$/src/offer34/FindSumPath.java" />
         <option value="$PROJECT_DIR$/src/offer27/TreeMirror.java" />
+        <option value="$PROJECT_DIR$/src/offer54/KthTreeNode.java" />
       </list>
     </option>
   </component>
@@ -178,19 +176,6 @@
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer32" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer32" type="462c0819:PsiDirectoryNode" />
-              <item name="PrintFromTopToBottom.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -200,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543203074732" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543239708871" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -218,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TreeMirror">
+  <component name="RunManager" selected="Application.KthTreeNode">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -255,13 +240,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintFromTopToBottom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer32.PrintFromTopToBottom" />
+    <configuration name="KthTreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer54.KthTreeNode" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer32.*" />
+          <option name="PATTERN" value="offer54.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,13 +254,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer55.TreeDepth" />
+    <configuration name="PrintFromTopToBottom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer32.PrintFromTopToBottom" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer55.*" />
+          <option name="PATTERN" value="offer32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,19 +314,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TreeDepth" />
       <item itemvalue="Application.PrintFromTopToBottom" />
       <item itemvalue="Application.IsBST" />
       <item itemvalue="Application.FindSumPath" />
       <item itemvalue="Application.TreeMirror" />
+      <item itemvalue="Application.KthTreeNode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthTreeNode" />
         <item itemvalue="Application.TreeMirror" />
         <item itemvalue="Application.FindSumPath" />
         <item itemvalue="Application.IsBST" />
         <item itemvalue="Application.PrintFromTopToBottom" />
-        <item itemvalue="Application.TreeDepth" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +386,7 @@
       <workItem from="1542677337299" duration="7400000" />
       <workItem from="1542765486864" duration="25588000" />
       <workItem from="1542938875819" duration="8551000" />
-      <workItem from="1543198279408" duration="3770000" />
+      <workItem from="1543198279408" duration="11117000" />
     </task>
     <task id="LOCAL-00001" summary="旋转数组的最小数字">
       <created>1540278292468</created>
@@ -414,7 +399,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="280287000" />
+    <option name="totallyTimeSpent" value="287634000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -429,7 +414,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1401919" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -438,14 +423,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22125813" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.34056398" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22017354" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.4078091" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.21475054" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.25813448" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.13991323" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.20498915" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.46746203" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -479,6 +464,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="旋转数组的最小数字" />
     <option name="LAST_COMMIT_MESSAGE" value="旋转数组的最小数字" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/offer54/KthTreeNode.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/offer14/NumberTriangle.java">
@@ -770,13 +767,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer55/TreeDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/offer34/FindSumPath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -793,8 +783,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offer32/PrintFromTopToBottom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="53" column="29" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="53" selection-end-column="29" />
+        <state relative-caret-position="-5689">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -803,8 +793,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offer27/TreeMirror.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="332">
+          <caret line="114" column="25" lean-forward="true" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer55/TreeDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer54/KthTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
         </state>
       </provider>
     </entry>
