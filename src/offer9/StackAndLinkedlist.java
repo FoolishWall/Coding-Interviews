@@ -97,7 +97,6 @@ public class StackAndLinkedlist{
 //        sQueue.appendTail(7);
 //        System.out.println(sQueue.deleteHead());
 //        System.out.println(sQueue.deleteHead());
-//        System.out.println(sQueue.deleteHead());
         QStack<Integer> qStack = new QStack<>();
         qStack.appendHead(1);
         qStack.appendHead(2);
