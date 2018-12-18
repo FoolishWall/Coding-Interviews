@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="旋转数组的最小数字">
-      <change afterPath="$PROJECT_DIR$/src/offer57/FindSumS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer53/FindNumInArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,28 +21,29 @@
     <session id="-1560443118">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="44" />
-          <entry key="project.open.time.0" value="29" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="48" />
+          <entry key="project.open.time.0" value="30" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.28" value="3" />
-          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.36" value="2" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.6" value="5" />
-          <entry key="project.opened" value="45" />
+          <entry key="project.opened" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="125" />
+          <entry key="java" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33138" />
+          <entry key="JAVA" value="35287" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -51,14 +52,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="125" />
+          <entry key="JAVA" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="33138" />
+          <entry key="java" value="35287" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
@@ -67,10 +68,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/offer57/FindSumS.java">
+        <entry file="file://$PROJECT_DIR$/src/offer53/FindNumInArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="90" column="22" lean-forward="true" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
+            <state relative-caret-position="2781">
+              <caret line="103" column="45" lean-forward="true" selection-start-line="103" selection-start-column="45" selection-end-line="103" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/offer11/Find.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-549">
+              <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -147,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/offer9/StackAndLinkedlist.java" />
         <option value="$PROJECT_DIR$/src/offer56/FindNumsAppearOnce.java" />
         <option value="$PROJECT_DIR$/src/offer57/FindSumS.java" />
+        <option value="$PROJECT_DIR$/src/offer53/FindNumInArr.java" />
       </list>
     </option>
   </component>
@@ -169,8 +180,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,6 +196,24 @@
             </path>
             <path>
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -196,7 +225,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544708560107" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545137973157" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -214,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindSumS">
+  <component name="RunManager" selected="Application.FindNumInArr">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -230,6 +259,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="offer48.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindNumInArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer53.FindNumInArr" />
+      <module name="offer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="offer53.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,20 +322,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackAndLinkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer9.StackAndLinkedlist" />
-      <module name="offer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="offer9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -325,19 +354,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StackAndLinkedlist" />
       <item itemvalue="Application.BRetainAChar" />
       <item itemvalue="Application.Pow" />
       <item itemvalue="Application.FindNumsAppearOnce" />
       <item itemvalue="Application.FindSumS" />
+      <item itemvalue="Application.FindNumInArr" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindNumInArr" />
         <item itemvalue="Application.FindSumS" />
         <item itemvalue="Application.FindNumsAppearOnce" />
         <item itemvalue="Application.Pow" />
         <item itemvalue="Application.BRetainAChar" />
-        <item itemvalue="Application.StackAndLinkedlist" />
       </list>
     </recent_temporary>
   </component>
@@ -410,7 +439,11 @@
       <workItem from="1544165756294" duration="1732000" />
       <workItem from="1544450067088" duration="2615000" />
       <workItem from="1544500959489" duration="9238000" />
-      <workItem from="1544702128430" duration="6410000" />
+      <workItem from="1544702128430" duration="9254000" />
+      <workItem from="1544773645477" duration="3288000" />
+      <workItem from="1545027789400" duration="597000" />
+      <workItem from="1545099129992" duration="6646000" />
+      <workItem from="1545121126823" duration="6998000" />
     </task>
     <task id="LOCAL-00001" summary="旋转数组的最小数字">
       <created>1540278292468</created>
@@ -423,7 +456,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="368727000" />
+    <option name="totallyTimeSpent" value="389100000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,7 +471,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23614073" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23720682" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -447,14 +480,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36117136" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.3308026" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44251627" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.2407809" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.21475054" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.25813448" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.1691974" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.1735358" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.46746203" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -490,20 +523,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="旋转数组的最小数字" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/offer62/LastRemaining.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer63/MaxProfit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/offer61/PokerStraight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -515,13 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer49/GetUglyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -613,13 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
           <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer54/KthTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -829,16 +834,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1701">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer49/GetUglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer54/KthTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="85" column="31" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offer57/FindSumS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="90" column="22" lean-forward="true" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
+        <state relative-caret-position="656">
+          <caret line="72" column="43" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer11/Find.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-549">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer53/FindNumInArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2781">
+          <caret line="103" column="45" lean-forward="true" selection-start-line="103" selection-start-column="45" selection-end-line="103" selection-end-column="45" />
         </state>
       </provider>
     </entry>
