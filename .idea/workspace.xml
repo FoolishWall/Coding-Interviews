@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="旋转数组的最小数字">
-      <change afterPath="$PROJECT_DIR$/src/offer50/FirstNotRepeating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer31/IsPopOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer31/IsPopOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer12/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer12/Combination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer48/MinCover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer48/MinCover.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/offer60/PrintDicePossibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer60/PrintDicePossibility.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,12 +37,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="166" />
+          <entry key="java" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="37758" />
+          <entry key="JAVA" value="37764" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -57,14 +51,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="166" />
+          <entry key="JAVA" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="37758" />
+          <entry key="java" value="37764" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
@@ -72,20 +66,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/offer50/FirstNotRepeating.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="44">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/offer60/PrintDicePossibility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="54">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -182,10 +176,10 @@
         <option value="$PROJECT_DIR$/src/offer53/FindNumInArr.java" />
         <option value="$PROJECT_DIR$/src/offer30/StackWithMin.java" />
         <option value="$PROJECT_DIR$/src/offer31/IsPopOrder.java" />
-        <option value="$PROJECT_DIR$/src/offer50/FirstNotRepeating.java" />
-        <option value="$PROJECT_DIR$/src/offer60/PrintDicePossibility.java" />
         <option value="$PROJECT_DIR$/src/offer48/MinCover.java" />
         <option value="$PROJECT_DIR$/src/offer12/Combination.java" />
+        <option value="$PROJECT_DIR$/src/offer50/FirstNotRepeating.java" />
+        <option value="$PROJECT_DIR$/src/offer60/PrintDicePossibility.java" />
       </list>
     </option>
   </component>
@@ -223,6 +217,32 @@
             </path>
             <path>
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer9" type="462c0819:PsiDirectoryNode" />
+              <item name="StackAndLinkedlist.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer27" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer27" type="462c0819:PsiDirectoryNode" />
+              <item name="TreeMirror.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -245,7 +265,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546937447734" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546937780684" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -467,7 +487,7 @@
       <workItem from="1545367196843" duration="19000" />
       <workItem from="1546433360284" duration="717000" />
       <workItem from="1546478138499" duration="8911000" />
-      <workItem from="1546844062965" duration="22758000" />
+      <workItem from="1546844062965" duration="23091000" />
     </task>
     <task id="LOCAL-00001" summary="旋转数组的最小数字">
       <created>1540278292468</created>
@@ -480,7 +500,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="425642000" />
+    <option name="totallyTimeSpent" value="425975000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -495,7 +515,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19616205" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19616205" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -504,14 +524,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3546638" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38069415" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.31127983" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.21475054" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.25813448" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37201735" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.46746203" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -547,13 +567,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="旋转数组的最小数字" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/offer48/MinWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="94" column="16" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/codegen/OptimisticTypesPersistence.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -732,13 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer9/StackAndLinkedlist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/offer53/FindNumInArr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1647">
@@ -894,10 +900,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer12/Combination.java">
+    <entry file="file://$PROJECT_DIR$/src/offer27/TreeMirror.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="-675">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer9/StackAndLinkedlist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="148" column="6" selection-start-line="148" selection-start-column="6" selection-end-line="148" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer50/FirstNotRepeating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -911,17 +931,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer60/PrintDicePossibility.java">
+    <entry file="file://$PROJECT_DIR$/src/offer12/Combination.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer50/FirstNotRepeating.java">
+    <entry file="file://$PROJECT_DIR$/src/offer60/PrintDicePossibility.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
