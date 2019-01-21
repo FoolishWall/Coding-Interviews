@@ -15,11 +15,15 @@ import java.util.Random;
 public class MoreThanHalfNum {
     //测试
     public static void main(String[] args) {
-        int [] data = new int[]{9,4,1,2,3,6,5,7,8,4,5,6,8,9};
-        quickSort_core(data,0,data.length-1);
-        for (int aData:data){
-            System.out.println(aData);
-        }
+//        int [] data = new int[]{9,4,1,2,3,6,5,7,8,4,5,6,8,9};
+//        quickSort_core(data,0,data.length-1);
+//        for (int aData:data){
+//            System.out.println(aData);
+//        }
+
+
+        int [] data = new int[]{1,2,3,2,2,2,5,4,2};
+        System.out.println(moreThanHalfNum_solution(data));
     }
 
     private static int moreThanHalfNum_mysolution(int[] data){
@@ -42,11 +46,65 @@ public class MoreThanHalfNum {
         return num;
     }
 
+    /**
+     * 不修改输入数组，维护两个值：一个是数组中的一个数字；另一个是次数。
+     * @param data
+     * @return
+     */
+    private static int moreThanHalfNum_solution(int [] data){
+        //特殊测试
+        if (data ==null || data.length < 1){
+            return -1;
+        }
+
+        int result = data[0];
+        int count = 1;
+
+        /**
+         * 遍历一遍数组,当前数字与后一个数字比较是否相等,
+         * 相等count加1，不相等count减1，
+         * 若count为0，则统计后一个数字的次数
+         */
+        for (int i = 1;i < data.length;i++){
+            if (data[i] == result){
+                count++;
+            }else
+            {
+                count--;
+            }
+
+            if (count == 0){
+                result = data[i];
+                count = 1;
+            }
+        }
+
+        if (!checkMoreThanHalf(data,result)){
+            return -1;
+        }
+        return result;
+    }
+
+    private static  boolean checkMoreThanHalf(int [] data,int result){
+        //次数
+        int times = 0;
+        //遍历一遍数组，统计result出现的次数
+        for (int temp:data) {
+            if (temp == result){
+                times++;
+            }
+        }
+
+        return times > data.length / 2;
+    }
 
     //复习快速排序
     //快速排序需要注意的地方
     //1.从基数的对面开始
     //2.当选用随机基准数时，需要将基准数放在开头或是结尾，以确定，从哪侧开始移动（依然是考虑第一个注意点）
+
+
+    //快速排序为什么要从基数的另一侧开始，例如:6,1,2,7,9，以6为基数，从左侧开始，会将7放到最左侧,排序错乱
     private static void quickSort_core(int [] data,int head,int tail){
         int start = head;
         int end = tail;
