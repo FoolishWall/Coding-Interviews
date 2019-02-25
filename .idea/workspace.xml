@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="旋转数组的最小数字">
-      <change afterPath="$PROJECT_DIR$/src/offer52/FindFirstCommonNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer68/GetLastCommonParent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,12 +42,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="202" />
+          <entry key="java" value="205" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="45694" />
+          <entry key="JAVA" value="47239" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -56,14 +56,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="202" />
+          <entry key="JAVA" value="205" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="45694" />
+          <entry key="java" value="47239" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
@@ -71,16 +71,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/offer52/FindFirstCommonNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state relative-caret-position="54">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding>
                 <element signature="e#401#402#0" expanded="true" />
                 <element signature="e#428#429#0" expanded="true" />
                 <element signature="e#450#451#0" expanded="true" />
                 <element signature="e#476#477#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/offer32/PrintFromTopToBottom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="53" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/offer68/GetLastCommonParent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding>
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#330#360#0" expanded="true" />
+                <element signature="e#1622#1652#0" expanded="true" />
+                <element signature="e#1861#1891#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/offer15/CountNumberOf1.java" />
         <option value="$PROJECT_DIR$/src/offer5/ReplaceBlank.java" />
         <option value="$PROJECT_DIR$/src/offer11/Find.java" />
         <option value="$PROJECT_DIR$/src/offer11/Sort.java" />
@@ -193,6 +217,7 @@
         <option value="$PROJECT_DIR$/src/offer39/MoreThanHalfNum.java" />
         <option value="$PROJECT_DIR$/src/offer44/DigitAtIndex.java" />
         <option value="$PROJECT_DIR$/src/offer52/FindFirstCommonNode.java" />
+        <option value="$PROJECT_DIR$/src/offer68/GetLastCommonParent.java" />
       </list>
     </option>
   </component>
@@ -233,14 +258,14 @@
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer52" type="462c0819:PsiDirectoryNode" />
+              <item name="offer32" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer52" type="462c0819:PsiDirectoryNode" />
-              <item name="FindFirstCommonNode.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="offer32" type="462c0819:PsiDirectoryNode" />
+              <item name="PrintFromTopToBottom.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
@@ -259,7 +284,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551084069407" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551101425797" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -277,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindFirstCommonNode">
+  <component name="RunManager" selected="Application.GetLastCommonParent">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -314,6 +339,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GetLastCommonParent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer68.GetLastCommonParent" />
+      <module name="offer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="offer68.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetLeastNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="offer40.GetLeastNumbers" />
       <module name="offer" />
@@ -335,20 +374,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="offer39.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer38.Permutation" />
-      <module name="offer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="offer38.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,19 +413,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Permutation" />
       <item itemvalue="Application.GetLeastNumbers" />
       <item itemvalue="Application.MoreThanHalfNum" />
       <item itemvalue="Application.DigitAtIndex" />
       <item itemvalue="Application.FindFirstCommonNode" />
+      <item itemvalue="Application.GetLastCommonParent" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetLastCommonParent" />
         <item itemvalue="Application.FindFirstCommonNode" />
         <item itemvalue="Application.DigitAtIndex" />
         <item itemvalue="Application.MoreThanHalfNum" />
         <item itemvalue="Application.GetLeastNumbers" />
-        <item itemvalue="Application.Permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +516,7 @@
       <workItem from="1547970475816" duration="12888000" />
       <workItem from="1548033270798" duration="12375000" />
       <workItem from="1548234099344" duration="596000" />
-      <workItem from="1550905698115" duration="11085000" />
+      <workItem from="1550905698115" duration="21734000" />
     </task>
     <task id="LOCAL-00001" summary="旋转数组的最小数字">
       <created>1540278292468</created>
@@ -504,7 +529,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="503654000" />
+    <option name="totallyTimeSpent" value="514303000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -528,14 +553,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.345987" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.4143167" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28308025" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.3264642" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.21475054" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49946696" weight="0.25813448" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.22782037" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.21691974" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.46746203" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -589,20 +614,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer53/FindNumInArr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1647">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/offer30/StackWithMin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -951,13 +962,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offer52/FindFirstCommonNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state relative-caret-position="54">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding>
             <element signature="e#401#402#0" expanded="true" />
             <element signature="e#428#429#0" expanded="true" />
             <element signature="e#450#451#0" expanded="true" />
             <element signature="e#476#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer32/PrintFromTopToBottom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="53" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer68/GetLastCommonParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#330#360#0" expanded="true" />
+            <element signature="e#1622#1652#0" expanded="true" />
+            <element signature="e#1861#1891#0" expanded="true" />
           </folding>
         </state>
       </provider>
