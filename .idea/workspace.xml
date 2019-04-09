@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="旋转数组的最小数字">
-      <change afterPath="$PROJECT_DIR$/src/offer12/CirclePrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tencent_2/MinCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tencent_2/Monster.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,9 +22,9 @@
     <session id="-1560443118">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="70" />
+          <entry key="project.closed" value="71" />
           <entry key="project.open.time.0" value="40" />
-          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.26" value="3" />
@@ -36,18 +37,18 @@
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.6" value="7" />
-          <entry key="project.opened" value="72" />
+          <entry key="project.opened" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="229" />
+          <entry key="java" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="53023" />
+          <entry key="JAVA" value="54296" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -56,35 +57,53 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="229" />
+          <entry key="JAVA" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="53023" />
+          <entry key="java" value="54296" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/offer12/PermutationsDFS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            <state relative-caret-position="324">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tencent_2/MinCoin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tencent_2/Monster.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/offer12/CirclePrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="-621">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -114,8 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/offer48/LongestSubstring.java" />
-        <option value="$PROJECT_DIR$/src/offer48/MinWindow.java" />
         <option value="$PROJECT_DIR$/src/GetTranslationCount.java" />
         <option value="$PROJECT_DIR$/src/offer46/GetTranslationCount.java" />
         <option value="$PROJECT_DIR$/src/offer20/RegexApply.java" />
@@ -165,6 +182,8 @@
         <option value="$PROJECT_DIR$/src/exam4/MatchString.java" />
         <option value="$PROJECT_DIR$/src/offer12/PermutationsDFS.java" />
         <option value="$PROJECT_DIR$/src/offer12/CirclePrime.java" />
+        <option value="$PROJECT_DIR$/src/Tencent_2/MinCoin.java" />
+        <option value="$PROJECT_DIR$/src/Tencent_2/Monster.java" />
       </list>
     </option>
   </component>
@@ -174,9 +193,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="385" />
-    <option name="y" value="164" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="123" />
+    <option name="y" value="97" />
     <option name="width" value="1685" />
     <option name="height" value="975" />
   </component>
@@ -208,6 +227,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -229,6 +249,12 @@
             </path>
             <path>
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tencent_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -239,17 +265,21 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554694617393" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554734155100" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tencent_2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -263,7 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CirclePrime">
+  <component name="RunManager" selected="Application.Monster">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -314,13 +344,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinCoverColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exam2.MinCoverColor" />
+    <configuration name="Monster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tencent_2.Monster" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exam2.*" />
+          <option name="PATTERN" value="Tencent_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,19 +404,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MinCoverColor" />
       <item itemvalue="Application.GetLeastNumbersByHeap" />
       <item itemvalue="Application.GetLeastNumbers" />
       <item itemvalue="Application.PermutationsDFS" />
       <item itemvalue="Application.CirclePrime" />
+      <item itemvalue="Application.Monster" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Monster" />
         <item itemvalue="Application.CirclePrime" />
         <item itemvalue="Application.PermutationsDFS" />
         <item itemvalue="Application.GetLeastNumbersByHeap" />
         <item itemvalue="Application.GetLeastNumbers" />
-        <item itemvalue="Application.MinCoverColor" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +517,8 @@
       <workItem from="1552567831742" duration="4696000" />
       <workItem from="1554342147461" duration="1391000" />
       <workItem from="1554343878702" duration="598000" />
-      <workItem from="1554685721868" duration="7573000" />
+      <workItem from="1554685721868" duration="8576000" />
+      <workItem from="1554707845906" duration="10463000" />
     </task>
     <task id="LOCAL-00001" summary="旋转数组的最小数字">
       <created>1540278292468</created>
@@ -500,7 +531,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="552560000" />
+    <option name="totallyTimeSpent" value="564026000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -515,7 +546,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23081024" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -524,12 +555,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2570499" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38828632" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30585682" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.22017354" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20281996" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20715836" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -584,20 +615,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -856,17 +873,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer12/PermutationsDFS.java">
+    <entry file="file://$PROJECT_DIR$/src/Tencent_2/MinCoin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        <state relative-caret-position="270">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offer12/CirclePrime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="-621">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer12/PermutationsDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tencent_2/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
         </state>
       </provider>
     </entry>
