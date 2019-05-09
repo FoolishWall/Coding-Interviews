@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="旋转数组的最小数字">
-      <change afterPath="$PROJECT_DIR$/src/JD2019413/FindChildString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JD2019413/FindChildStringRec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JD2019413/FireTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer12/NKDFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,12 +46,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="292" />
+          <entry key="java" value="294" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="57086" />
+          <entry key="JAVA" value="57172" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -62,14 +60,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="292" />
+          <entry key="JAVA" value="294" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="57086" />
+          <entry key="java" value="57172" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
@@ -77,55 +75,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JD2019413/FireTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JD2019413/FindChildString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JD2019413/FindChildStringRec.java">
+        <entry file="file://$PROJECT_DIR$/src/offer12/NKDFS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+            <state relative-caret-position="1566">
+              <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/StringBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="282" column="47" selection-start-line="282" selection-start-column="47" selection-end-line="282" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="857" column="57" lean-forward="true" selection-start-line="857" selection-start-column="57" selection-end-line="857" selection-end-column="57" />
-              <folding>
-                <element signature="e#54819#54820#0" expanded="true" />
-                <element signature="e#54893#54894#0" expanded="true" />
-                <element signature="e#55594#55595#0" expanded="true" />
-                <element signature="e#55640#55641#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/offer19/RegexMatch.java" />
         <option value="$PROJECT_DIR$/src/offer21/ReorderOddEven.java" />
         <option value="$PROJECT_DIR$/src/offer63/MaxProfit.java" />
         <option value="$PROJECT_DIR$/src/offer61/PokerStraight.java" />
@@ -215,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/offer12/PermutationsDFS.java" />
         <option value="$PROJECT_DIR$/src/JD2019413/FindChildString.java" />
         <option value="$PROJECT_DIR$/src/JD2019413/FindChildStringRec.java" />
+        <option value="$PROJECT_DIR$/src/offer12/NKDFS.java" />
       </list>
     </option>
   </component>
@@ -225,8 +181,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="80" />
-    <option name="y" value="24" />
+    <option name="x" value="247" />
+    <option name="y" value="137" />
     <option name="width" value="1685" />
     <option name="height" value="975" />
   </component>
@@ -274,14 +230,43 @@
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JD2019413" type="462c0819:PsiDirectoryNode" />
+              <item name="offer12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JD2019413" type="462c0819:PsiDirectoryNode" />
-              <item name="FireTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="offer13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer20" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
@@ -302,7 +287,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557370327210" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557382808304" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -325,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindChildStringRec">
+  <component name="RunManager" selected="Application.NKDFS">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -376,13 +361,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastRemaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer62.LastRemaining" />
+    <configuration name="NKDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer12.NKDFS" />
       <module name="offer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer62.*" />
+          <option name="PATTERN" value="offer12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,18 +422,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.PermutationsDFS" />
-      <item itemvalue="Application.LastRemaining" />
       <item itemvalue="Application.FireTree" />
       <item itemvalue="Application.FindChildString" />
       <item itemvalue="Application.FindChildStringRec" />
+      <item itemvalue="Application.NKDFS" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NKDFS" />
         <item itemvalue="Application.FindChildStringRec" />
         <item itemvalue="Application.FindChildString" />
         <item itemvalue="Application.PermutationsDFS" />
         <item itemvalue="Application.FireTree" />
-        <item itemvalue="Application.LastRemaining" />
       </list>
     </recent_temporary>
   </component>
@@ -559,7 +544,7 @@
       <workItem from="1555575178122" duration="991000" />
       <workItem from="1556159322776" duration="33000" />
       <workItem from="1557318185141" duration="2760000" />
-      <workItem from="1557365059968" duration="4187000" />
+      <workItem from="1557365059968" duration="6078000" />
     </task>
     <task id="LOCAL-00001" summary="旋转数组的最小数字">
       <created>1540278292468</created>
@@ -572,7 +557,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="601424000" />
+    <option name="totallyTimeSpent" value="603315000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -587,7 +572,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23347548" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -596,13 +581,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" x="1055" y="396" width="810" height="385" id="Run" order="2" visible="true" weight="0.16052061" />
+      <window_info anchor="bottom" x="1055" y="396" width="810" height="385" id="Run" order="2" weight="0.5976139" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27874187" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.21800433" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2516269" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -652,23 +637,10 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JD2019413/FindChildString.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/offer11/Min.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/offer11/Find.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -963,13 +935,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer12/PermutationsDFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tencent_2/Monster.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-130">
@@ -981,13 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JD2019413/FireTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1011,17 +969,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JD2019413/FindChildStringRec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JD2019413/FireTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JD2019413/FindChildString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
+        <state relative-caret-position="1080">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JD2019413/FindChildStringRec.java">
+    <entry file="file://$PROJECT_DIR$/src/offer12/PermutationsDFS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+        <state relative-caret-position="267">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer12/NKDFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
