@@ -11,6 +11,7 @@ public class Fibonacci {
         System.out.println(fibonacci_solution(10));
         System.out.println(fibonacci_solution1(10));
         System.out.println(fibonacci_solution2(10));
+        System.out.println(fibonacci_solution3(10));
     }
 
     //斐波那契（低效率递归解法）
@@ -47,5 +48,24 @@ public class Fibonacci {
             fibNone=fibN;
         }
         return fibN;
+    }
+
+    //复习菲波那切数列
+    private static int fibonacci_solution3(int n){
+        if (n == 0 ){
+            return 0;
+        }else if (n < 3){
+            return 1;
+        }
+        int pre = 1;
+        int temp;
+        int result = 1;
+        for (int i = 2 ; i < n ; i++){
+            temp = result;
+            result = pre + result;
+            pre = temp;
+        }
+
+        return result;
     }
 }
