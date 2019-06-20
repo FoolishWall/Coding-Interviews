@@ -1,6 +1,7 @@
 package offer27;
 
 import java.util.LinkedList;
+import java.util.Stack;
 
 /**
  * @author wall
@@ -61,9 +62,12 @@ public class TreeMirror {
         node7.left = node14;
         node7.right = node15;
 
-        printFromTopToBottom(node1);
-        treeMirror_solution(node1);
-        printFromTopToBottom(node1);
+//        printFromTopToBottom(node1);
+//        treeMirror_solution(node1);
+//        printFromTopToBottom(node1);
+        cycPrint(node1);
+        System.out.println();
+        printTree(node1);
     }
 
     /**
@@ -113,6 +117,52 @@ public class TreeMirror {
                 System.out.println();
                 current = next;
                 next = 0;
+            }
+        }
+    }
+
+    /**
+     * 复习循环遍历二叉树,先序遍历
+     * @param root
+     */
+    private static void cycPrint(TreeNode root){
+        //申请一个栈空间
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode currentNode = root;
+        while (currentNode != null){
+            System.out.print(currentNode.value+" ");
+
+            //右子节点入栈
+            if (currentNode.right != null){
+                stack.push(currentNode.right);
+            }
+
+            //左子节点作为当前节点
+            if (currentNode.left!=null){
+                currentNode = currentNode.left;
+            }else {
+                if (stack.isEmpty()){
+                    currentNode = null;
+                }else {
+                    currentNode = stack.pop();
+                }
+            }
+
+        }
+    }
+
+    /**
+     * 递归实现的先序遍历二叉树
+     * @param root
+     */
+    private static void printTree(TreeNode root){
+        if (root!=null){
+            System.out.print(root.value+" ");
+            if (root.left!=null){
+                printTree(root.left);
+            }
+            if (root.right!=null){
+                printTree(root.right);
             }
         }
     }
