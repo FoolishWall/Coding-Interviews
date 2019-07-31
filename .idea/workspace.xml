@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="旋转数组的最小数字">
-      <change afterPath="$PROJECT_DIR$/src/classic/Backpack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aexam/SearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,9 +24,9 @@
     <session id="-1560443118">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="87" />
+          <entry key="project.closed" value="88" />
           <entry key="project.open.time.0" value="48" />
-          <entry key="project.open.time.1" value="12" />
+          <entry key="project.open.time.1" value="13" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.26" value="3" />
@@ -37,22 +37,23 @@
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="91" />
+          <entry key="project.opened" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="327" />
+          <entry key="java" value="331" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="60746" />
+          <entry key="JAVA" value="61579" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -61,14 +62,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="327" />
+          <entry key="JAVA" value="331" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="60746" />
+          <entry key="java" value="61579" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
@@ -77,31 +78,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer11/Min.java">
+        <entry file="file://$PROJECT_DIR$/src/classic/Backpack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1458">
-              <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+            <state relative-caret-position="572">
+              <caret line="152" column="9" selection-start-line="152" selection-start-column="9" selection-end-line="152" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classic/Backpack.java">
+        <entry file="file://$PROJECT_DIR$/src/aexam/SearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1892">
-              <caret line="152" column="9" lean-forward="true" selection-start-line="152" selection-start-column="9" selection-end-line="152" selection-end-column="9" />
+            <state relative-caret-position="2673">
+              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
               <folding>
-                <element signature="e#1509#1539#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Stack.java">
+        <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+            <state relative-caret-position="219">
+              <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/offer55/TreeDepth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" selection-start-line="7" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -139,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/offer61/PokerStraight.java" />
         <option value="$PROJECT_DIR$/src/offer49/GetUglyNumber.java" />
         <option value="$PROJECT_DIR$/src/offer64/Sum.java" />
         <option value="$PROJECT_DIR$/src/offer65/SpecialAdd.java" />
@@ -190,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/offer10/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/offer27/TreeMirror.java" />
         <option value="$PROJECT_DIR$/src/classic/Backpack.java" />
+        <option value="$PROJECT_DIR$/src/aexam/SearchTree.java" />
       </list>
     </option>
   </component>
@@ -200,10 +210,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="101" />
-    <option name="y" value="229" />
-    <option name="width" value="1685" />
-    <option name="height" value="975" />
+    <option name="x" value="557" />
+    <option name="y" value="61" />
+    <option name="width" value="1467" />
+    <option name="height" value="812" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -250,7 +260,39 @@
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classic" type="462c0819:PsiDirectoryNode" />
+              <item name="aexam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aexam" type="462c0819:PsiDirectoryNode" />
+              <item name="SearchTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer53" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer54" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer55" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer55" type="462c0819:PsiDirectoryNode" />
+              <item name="TreeDepth.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
@@ -270,7 +312,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563857917676" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564539450208" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -293,7 +335,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Backpack">
+  <component name="RunManager" selected="Application.SearchTree">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -330,20 +372,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindChildStringRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JD2019413.FindChildStringRec" />
-      <module name="offer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JD2019413.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NKDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="offer12.NKDFS" />
       <module name="offer" />
@@ -351,6 +379,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="offer12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aexam.SearchTree" />
+      <module name="offer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aexam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,19 +446,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindChildStringRec" />
       <item itemvalue="Application.NKDFS" />
       <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.TreeMirror" />
       <item itemvalue="Application.Backpack" />
+      <item itemvalue="Application.SearchTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchTree" />
         <item itemvalue="Application.Backpack" />
         <item itemvalue="Application.TreeMirror" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.NKDFS" />
-        <item itemvalue="Application.FindChildStringRec" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +578,9 @@
       <workItem from="1561882772051" duration="1162000" />
       <workItem from="1562240131590" duration="555000" />
       <workItem from="1562248263518" duration="1927000" />
-      <workItem from="1563758870464" duration="22174000" />
+      <workItem from="1563758870464" duration="24359000" />
+      <workItem from="1564317422761" duration="171000" />
+      <workItem from="1564536689680" duration="2758000" />
     </task>
     <task id="LOCAL-00001" summary="旋转数组的最小数字">
       <created>1540278292468</created>
@@ -549,7 +593,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="635000000" />
+    <option name="totallyTimeSpent" value="640114000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -564,7 +608,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16151386" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -573,13 +617,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="1055" y="396" width="810" height="385" id="Run" order="2" weight="0.22885032" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.53579175" />
+      <window_info active="true" anchor="bottom" x="1055" y="396" width="810" height="385" id="Run" order="2" visible="true" weight="0.22885032" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.53579175" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.20932755" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.6616052" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -633,27 +677,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="1200" column="49" selection-start-line="1200" selection-start-column="49" selection-end-line="1200" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="74" column="23" lean-forward="true" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
@@ -829,13 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="136" column="3" lean-forward="true" selection-start-line="136" selection-start-column="3" selection-end-line="136" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayDeque.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9706">
@@ -985,10 +1001,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classic/Backpack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1892">
-          <caret line="152" column="9" lean-forward="true" selection-start-line="152" selection-start-column="9" selection-end-line="152" selection-end-column="9" />
+        <state relative-caret-position="572">
+          <caret line="152" column="9" selection-start-line="152" selection-start-column="9" selection-end-line="152" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer55/TreeDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/AbstractQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aexam/SearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2673">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
           <folding>
-            <element signature="e#1509#1539#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
