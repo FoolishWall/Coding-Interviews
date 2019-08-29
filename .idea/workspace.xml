@@ -1,122 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="旋转数组的最小数字">
-      <change afterPath="$PROJECT_DIR$/src/aexam/SearchTree.java" afterDir="false" />
+    <list default="true" id="574b48c2-0a23-4da2-8dbe-6ec198158cde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/同程艺龙/ThreadABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/并查集/FindGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/JD2019413/FindChildString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/JD2019413/FindChildString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/JD2019413/FindChildStringRec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/JD2019413/FindChildStringRec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/JD2019413/FireTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/JD2019413/FireTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/JD2019413/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/JD2019413/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/Tencent_2/MinCoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Tencent_2/MinCoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/Tencent_2/Monster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Tencent_2/Monster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/aexam/SearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/aexam/SearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/aexam/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/aexam/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/classic/Backpack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/classic/Backpack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/exam1/PrimeNumberSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/exam1/PrimeNumberSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/exam2/MinCoverColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/exam2/MinCoverColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/exam3/JudgeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/exam3/JudgeString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/exam4/MatchString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/exam4/MatchString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer10/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer10/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer11/Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer11/Find.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer11/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer11/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer11/Min.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer11/Min.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer11/Sort_Core.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer11/Sort_Core.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer11/TestSSH.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer11/TestSSH.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/CirclePrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/CirclePrime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/Combination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/Combination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/FindCombine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/FindCombine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/HasPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/HasPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/NKDFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/NKDFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/Permutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/PermutationsDFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/PermutationsDFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer13/RobertMoveCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer13/RobertMoveCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer14/MaxProductAfterCutting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer14/MaxProductAfterCutting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer14/NumberTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer14/NumberTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer15/CountNumberOf1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer15/CountNumberOf1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer16/Pow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer16/Pow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer19/RegexMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer19/RegexMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer20/RegexApply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer20/RegexApply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer21/ReorderOddEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer21/ReorderOddEven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer27/TreeMirror.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer27/TreeMirror.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer27/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer27/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer29/PrintMatrixInCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer29/PrintMatrixInCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer30/StackWithMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer30/StackWithMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer30/StackWithMin_solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer30/StackWithMin_solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer31/IsPopOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer31/IsPopOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer32/PrintFromTopToBottom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer32/PrintFromTopToBottom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer32/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer32/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer33/IsBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer33/IsBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer34/FindSumPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer34/FindSumPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer34/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer34/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer38/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer38/Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer39/MoreThanHalfNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer39/MoreThanHalfNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer40/GetLeastNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer40/GetLeastNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer40/GetLeastNumbersByHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer40/GetLeastNumbersByHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer44/DigitAtIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer44/DigitAtIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer46/GetTranslationCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer46/GetTranslationCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer47/GiftMaxValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer47/GiftMaxValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer48/BRetainAChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer48/BRetainAChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer48/LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer48/LongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer48/MinCover.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer48/MinCover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer48/MinWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer48/MinWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer49/GetUglyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer49/GetUglyNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer5/ReplaceBlank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer5/ReplaceBlank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer50/FirstNotRepeating.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer50/FirstNotRepeating.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer51/InverseParis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer51/InverseParis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer52/FindFirstCommonNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer52/FindFirstCommonNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer52/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer52/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer53/FindNumInArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer53/FindNumInArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer54/KthTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer54/KthTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer54/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer54/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer55/TreeDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer55/TreeDepth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer55/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer55/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer56/FindNumsAppearOnce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer56/FindNumsAppearOnce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer57/FindSumS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer57/FindSumS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer58/ReverseSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer58/ReverseSentence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer59/MaxValueInWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer59/MaxValueInWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer60/PrintDicePossibility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer60/PrintDicePossibility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer61/PokerStraight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer61/PokerStraight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer62/LastRemaining.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer62/LastRemaining.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer63/MaxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer63/MaxProfit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer64/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer64/Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer65/SpecialAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer65/SpecialAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer68/GetLastCommonParent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer68/GetLastCommonParent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer68/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer68/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer69/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer69/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer9/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer9/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer9/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer9/MyStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer9/QStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer9/QStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer9/SQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer9/SQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer9/StackAndLinkedlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer9/StackAndLinkedlist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tencent_2/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tencent_2/Monster.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Coding_Interviews$Find.coverage" NAME="Find Coverage Results" MODIFIED="1539848912979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>offer11.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Coding_Interviews$FireTree.ic" NAME="FireTree Coverage Results" MODIFIED="1555316418357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>JD2019413.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1560443118">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="88" />
-          <entry key="project.open.time.0" value="48" />
-          <entry key="project.open.time.1" value="13" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.26" value="3" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.28" value="4" />
-          <entry key="project.open.time.29" value="3" />
-          <entry key="project.open.time.30" value="2" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.36" value="2" />
-          <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.50" value="1" />
-          <entry key="project.open.time.6" value="7" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="93" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="2" />
-          <entry key="java" value="331" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="61579" />
-          <entry key="PLAIN_TEXT" value="13" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.spring.boot.mvc.usages" />
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="331" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.spring.boot.run.usages" />
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="61579" />
-          <entry key="txt" value="13" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classic/Backpack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="152" column="9" selection-start-line="152" selection-start-column="9" selection-end-line="152" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/aexam/SearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2673">
-              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer55/TreeDepth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" selection-start-line="7" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,203 +110,17 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Vector</find>
-      <find>Map.En</find>
-      <find>remove</find>
-      <find>comparator</find>
-      <find>keySet</find>
-      <find>entryset</find>
-      <find>iterator</find>
-      <find>HashIterator</find>
-      <find>EntryIterator</find>
-      <find>keyset</find>
-      <find>init</find>
-      <find>header</find>
-      <find>add</find>
-      <find>put</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/offer49/GetUglyNumber.java" />
-        <option value="$PROJECT_DIR$/src/offer64/Sum.java" />
-        <option value="$PROJECT_DIR$/src/offer65/SpecialAdd.java" />
-        <option value="$PROJECT_DIR$/src/offer58/ReverseSentence.java" />
-        <option value="$PROJECT_DIR$/src/offer59/MaxValueInWindow.java" />
-        <option value="$PROJECT_DIR$/src/offer55/TreeDepth.java" />
-        <option value="$PROJECT_DIR$/src/offer32/PrintFromTopToBottom.java" />
-        <option value="$PROJECT_DIR$/src/offer33/IsBST.java" />
-        <option value="$PROJECT_DIR$/src/offer34/FindSumPath.java" />
-        <option value="$PROJECT_DIR$/src/offer54/KthTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/offer29/PrintMatrixInCircle.java" />
-        <option value="$PROJECT_DIR$/src/offer48/BRetainAChar.java" />
-        <option value="$PROJECT_DIR$/src/offer16/Pow.java" />
-        <option value="$PROJECT_DIR$/src/offer9/StackAndLinkedlist.java" />
-        <option value="$PROJECT_DIR$/src/offer56/FindNumsAppearOnce.java" />
-        <option value="$PROJECT_DIR$/src/offer57/FindSumS.java" />
-        <option value="$PROJECT_DIR$/src/offer53/FindNumInArr.java" />
-        <option value="$PROJECT_DIR$/src/offer30/StackWithMin.java" />
-        <option value="$PROJECT_DIR$/src/offer31/IsPopOrder.java" />
-        <option value="$PROJECT_DIR$/src/offer60/PrintDicePossibility.java" />
-        <option value="$PROJECT_DIR$/src/offer48/MinCover.java" />
-        <option value="$PROJECT_DIR$/src/offer12/Combination.java" />
-        <option value="$PROJECT_DIR$/src/offer50/FirstNotRepeating.java" />
-        <option value="$PROJECT_DIR$/src/offer11/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/offer51/InverseParis.java" />
-        <option value="$PROJECT_DIR$/src/offer38/Permutation.java" />
-        <option value="$PROJECT_DIR$/src/offer40/GetLeastNumbers.java" />
-        <option value="$PROJECT_DIR$/src/offer39/MoreThanHalfNum.java" />
-        <option value="$PROJECT_DIR$/src/offer44/DigitAtIndex.java" />
-        <option value="$PROJECT_DIR$/src/offer52/FindFirstCommonNode.java" />
-        <option value="$PROJECT_DIR$/src/offer68/GetLastCommonParent.java" />
-        <option value="$PROJECT_DIR$/src/offer69/HeapSort.java" />
-        <option value="$PROJECT_DIR$/src/offer35/ComplexListClone.java" />
-        <option value="$PROJECT_DIR$/src/exam1/PrimeNumberSum.java" />
-        <option value="$PROJECT_DIR$/src/exam2/MinCoverColor.java" />
-        <option value="$PROJECT_DIR$/src/offer40/GetLeastNumbersByHeap.java" />
-        <option value="$PROJECT_DIR$/src/exam3/JudgeString.java" />
-        <option value="$PROJECT_DIR$/src/exam4/MatchString.java" />
-        <option value="$PROJECT_DIR$/src/offer12/CirclePrime.java" />
-        <option value="$PROJECT_DIR$/src/Tencent_2/MinCoin.java" />
-        <option value="$PROJECT_DIR$/src/Tencent_2/Monster.java" />
-        <option value="$PROJECT_DIR$/src/offer62/LastRemaining.java" />
-        <option value="$PROJECT_DIR$/src/JD2019413/FireTree.java" />
-        <option value="$PROJECT_DIR$/src/offer12/PermutationsDFS.java" />
-        <option value="$PROJECT_DIR$/src/JD2019413/FindChildString.java" />
-        <option value="$PROJECT_DIR$/src/JD2019413/FindChildStringRec.java" />
-        <option value="$PROJECT_DIR$/src/offer12/NKDFS.java" />
-        <option value="$PROJECT_DIR$/src/offer10/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/offer27/TreeMirror.java" />
-        <option value="$PROJECT_DIR$/src/classic/Backpack.java" />
-        <option value="$PROJECT_DIR$/src/aexam/SearchTree.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="557" />
-    <option name="y" value="61" />
-    <option name="width" value="1467" />
-    <option name="height" value="812" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Probable bugsJava</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>MismatchedArrayReadWrite</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aexam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aexam" type="462c0819:PsiDirectoryNode" />
-              <item name="SearchTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer53" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer54" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer55" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer55" type="462c0819:PsiDirectoryNode" />
-              <item name="TreeDepth.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Coding-Interviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1PzFzEBeLu6JfD7XZhYU63b639M" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564539450208" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Tencent_2" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -335,22 +134,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SearchTree">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HEIGHT" value="0" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="WIDTH" value="0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Backpack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classic.Backpack" />
+  <component name="RunManager" selected="Application.PermutationsDFS">
+    <configuration name="Monster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tencent_2.Monster" />
       <module name="offer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classic.*" />
+          <option name="PATTERN" value="Tencent_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,24 +148,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer10.Fibonacci" />
+    <configuration name="PermutationsDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer12.PermutationsDFS" />
       <module name="offer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="offer10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NKDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer12.NKDFS" />
-      <module name="offer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="offer12.*" />
@@ -386,79 +161,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aexam.SearchTree" />
-      <module name="offer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="aexam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer27.TreeMirror" />
-      <module name="offer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="offer27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.NKDFS" />
-      <item itemvalue="Application.Fibonacci" />
-      <item itemvalue="Application.TreeMirror" />
-      <item itemvalue="Application.Backpack" />
-      <item itemvalue="Application.SearchTree" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SearchTree" />
-        <item itemvalue="Application.Backpack" />
-        <item itemvalue="Application.TreeMirror" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.NKDFS" />
+        <item itemvalue="Application.PermutationsDFS" />
+        <item itemvalue="Application.Monster" />
       </list>
     </recent_temporary>
   </component>
@@ -467,663 +173,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="31489d41-0432-4397-90f7-08fc440a55c8" name="Default" comment="" />
-      <created>1538880702618</created>
+      <changelist id="574b48c2-0a23-4da2-8dbe-6ec198158cde" name="Default Changelist" comment="" />
+      <created>1566869278693</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538880702618</updated>
-      <workItem from="1538880704046" duration="4349000" />
-      <workItem from="1539007530696" duration="6403000" />
-      <workItem from="1539067781102" duration="3744000" />
-      <workItem from="1539170577249" duration="141000" />
-      <workItem from="1539170870224" duration="7450000" />
-      <workItem from="1539178485592" duration="4010000" />
-      <workItem from="1539225353908" duration="4379000" />
-      <workItem from="1539417145852" duration="4543000" />
-      <workItem from="1539566767195" duration="4661000" />
-      <workItem from="1539599599027" duration="85000" />
-      <workItem from="1539653210999" duration="6875000" />
-      <workItem from="1539692666750" duration="10000" />
-      <workItem from="1539742598277" duration="11749000" />
-      <workItem from="1539759380712" duration="2911000" />
-      <workItem from="1539825923389" duration="18494000" />
-      <workItem from="1540257664000" duration="1004000" />
-      <workItem from="1540259060342" duration="23259000" />
-      <workItem from="1540430098461" duration="9861000" />
-      <workItem from="1540777034352" duration="7838000" />
-      <workItem from="1540817706005" duration="8108000" />
-      <workItem from="1540865395670" duration="9000" />
-      <workItem from="1540898417714" duration="2948000" />
-      <workItem from="1541035281424" duration="13331000" />
-      <workItem from="1541059895127" duration="8000" />
-      <workItem from="1541125417284" duration="12038000" />
-      <workItem from="1541401101164" duration="10705000" />
-      <workItem from="1541468035190" duration="6366000" />
-      <workItem from="1541475421878" duration="615000" />
-      <workItem from="1541566042767" duration="8277000" />
-      <workItem from="1541643079258" duration="10050000" />
-      <workItem from="1541729571133" duration="7748000" />
-      <workItem from="1542245298962" duration="655000" />
-      <workItem from="1542246255642" duration="8213000" />
-      <workItem from="1542270974761" duration="50000" />
-      <workItem from="1542333222247" duration="114000" />
-      <workItem from="1542335983065" duration="26000" />
-      <workItem from="1542336125204" duration="21000" />
-      <workItem from="1542336762673" duration="13000" />
-      <workItem from="1542336865564" duration="6917000" />
-      <workItem from="1542441650256" duration="998000" />
-      <workItem from="1542612988886" duration="14443000" />
-      <workItem from="1542676083831" duration="511000" />
-      <workItem from="1542676802735" duration="397000" />
-      <workItem from="1542677337299" duration="7400000" />
-      <workItem from="1542765486864" duration="25588000" />
-      <workItem from="1542938875819" duration="8551000" />
-      <workItem from="1543198279408" duration="11522000" />
-      <workItem from="1543305710743" duration="690000" />
-      <workItem from="1543321018693" duration="491000" />
-      <workItem from="1543321539085" duration="544000" />
-      <workItem from="1543323413047" duration="14000" />
-      <workItem from="1543323787133" duration="7000" />
-      <workItem from="1543547426659" duration="19019000" />
-      <workItem from="1543808065519" duration="13195000" />
-      <workItem from="1543893164936" duration="20697000" />
-      <workItem from="1544086738181" duration="6036000" />
-      <workItem from="1544165756294" duration="1732000" />
-      <workItem from="1544450067088" duration="2615000" />
-      <workItem from="1544500959489" duration="9238000" />
-      <workItem from="1544702128430" duration="9254000" />
-      <workItem from="1544773645477" duration="3288000" />
-      <workItem from="1545027789400" duration="597000" />
-      <workItem from="1545099129992" duration="6646000" />
-      <workItem from="1545121126823" duration="11135000" />
-      <workItem from="1545367196843" duration="19000" />
-      <workItem from="1546433360284" duration="717000" />
-      <workItem from="1546478138499" duration="8911000" />
-      <workItem from="1546844062965" duration="30461000" />
-      <workItem from="1547087699434" duration="15778000" />
-      <workItem from="1547171200521" duration="4053000" />
-      <workItem from="1547176576960" duration="6000" />
-      <workItem from="1547267076018" duration="90000" />
-      <workItem from="1547689332912" duration="13018000" />
-      <workItem from="1547734069783" duration="420000" />
-      <workItem from="1547970475816" duration="12888000" />
-      <workItem from="1548033270798" duration="12375000" />
-      <workItem from="1548234099344" duration="596000" />
-      <workItem from="1550905698115" duration="22861000" />
-      <workItem from="1551317327503" duration="7859000" />
-      <workItem from="1551410269025" duration="6845000" />
-      <workItem from="1551773863539" duration="17000" />
-      <workItem from="1552012981511" duration="416000" />
-      <workItem from="1552268289761" duration="7703000" />
-      <workItem from="1552355453091" duration="32000" />
-      <workItem from="1552567831742" duration="4696000" />
-      <workItem from="1554342147461" duration="1391000" />
-      <workItem from="1554343878702" duration="598000" />
-      <workItem from="1554685721868" duration="8576000" />
-      <workItem from="1554707845906" duration="11170000" />
-      <workItem from="1554986426659" duration="1483000" />
-      <workItem from="1555033524407" duration="2703000" />
-      <workItem from="1555134718140" duration="635000" />
-      <workItem from="1555294860875" duration="22700000" />
-      <workItem from="1555380895079" duration="1199000" />
-      <workItem from="1555575178122" duration="991000" />
-      <workItem from="1556159322776" duration="33000" />
-      <workItem from="1557318185141" duration="2760000" />
-      <workItem from="1557365059968" duration="6231000" />
-      <workItem from="1560775511115" duration="608000" />
-      <workItem from="1561009197647" duration="2133000" />
-      <workItem from="1561011745443" duration="175000" />
-      <workItem from="1561166382197" duration="2710000" />
-      <workItem from="1561186511470" duration="88000" />
-      <workItem from="1561882772051" duration="1162000" />
-      <workItem from="1562240131590" duration="555000" />
-      <workItem from="1562248263518" duration="1927000" />
-      <workItem from="1563758870464" duration="24359000" />
-      <workItem from="1564317422761" duration="171000" />
-      <workItem from="1564536689680" duration="2758000" />
+      <updated>1566869278693</updated>
+      <workItem from="1566869279920" duration="165000" />
+      <workItem from="1566869497740" duration="9303000" />
+      <workItem from="1567056101881" duration="105000" />
     </task>
-    <task id="LOCAL-00001" summary="旋转数组的最小数字">
-      <created>1540278292468</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1540278292468</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="640114000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16950959" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" x="1055" y="396" width="810" height="385" id="Run" order="2" visible="true" weight="0.22885032" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.53579175" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.6616052" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="旋转数组的最小数字" />
-    <option name="LAST_COMMIT_MESSAGE" value="旋转数组的最小数字" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/offer12/Permutations.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/offer38/Permutation.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/AbstractSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="172" column="22" selection-start-line="172" selection-start-column="22" selection-end-line="172" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="405" column="14" selection-start-line="405" selection-start-column="14" selection-end-line="405" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1432">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="326" column="16" selection-start-line="326" selection-start-column="16" selection-end-line="326" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="752">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1133">
-          <caret line="559" column="18" selection-start-line="559" selection-start-column="18" selection-end-line="559" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="133" column="16" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="192" column="31" selection-start-line="192" selection-start-column="31" selection-end-line="192" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer12/Combination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer12/FindCombine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer12/Permutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer63/MaxProfit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer65/SpecialAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer69/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3267">
-          <caret line="121" column="23" lean-forward="true" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tencent_2/MinCoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tencent_2/Monster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-130">
-          <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer54/KthTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JD2019413/FireTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JD2019413/FindChildStringRec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer10/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer12/CirclePrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="760" column="36" selection-start-line="760" selection-start-column="36" selection-end-line="760" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9706">
-          <caret line="493" column="19" selection-start-line="493" selection-start-column="19" selection-end-line="493" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exam4/MatchString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer27/TreeMirror.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer12/PermutationsDFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="38" column="36" lean-forward="true" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer12/NKDFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer12/HasPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer13/RobertMoveCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-893">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer14/MaxProductAfterCutting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer16/Pow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1650">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer19/RegexMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer20/RegexApply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer14/NumberTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JD2019413/FindChildString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10611">
-          <caret line="429" column="26" selection-start-line="429" selection-start-column="26" selection-end-line="429" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37638">
-          <caret line="1458" column="36" selection-start-line="1458" selection-start-column="36" selection-end-line="1458" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer11/Find.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer11/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer11/TestSSH.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer11/Sort_Core.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer11/Min.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1458">
-          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classic/Backpack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="152" column="9" selection-start-line="152" selection-start-column="9" selection-end-line="152" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer55/TreeDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/AbstractQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://I:/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aexam/SearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2673">
-          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>bootstrap</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>offer</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
