@@ -2,100 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574b48c2-0a23-4da2-8dbe-6ec198158cde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/同程艺龙/ThreadABC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/FindGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer25/Merge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/JD2019413/FindChildString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/JD2019413/FindChildString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/JD2019413/FindChildStringRec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/JD2019413/FindChildStringRec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/JD2019413/FireTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/JD2019413/FireTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/JD2019413/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/JD2019413/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/Tencent_2/MinCoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Tencent_2/MinCoin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/Tencent_2/Monster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Tencent_2/Monster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/aexam/SearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/aexam/SearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/aexam/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/aexam/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/classic/Backpack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/classic/Backpack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/exam1/PrimeNumberSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/exam1/PrimeNumberSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/exam2/MinCoverColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/exam2/MinCoverColor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/exam3/JudgeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/exam3/JudgeString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/exam4/MatchString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/exam4/MatchString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer10/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer10/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer11/Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer11/Find.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer11/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer11/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer11/Min.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer11/Min.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer11/Sort_Core.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer11/Sort_Core.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer11/TestSSH.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer11/TestSSH.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/CirclePrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/CirclePrime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/Combination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/Combination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/FindCombine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/FindCombine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/HasPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/HasPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/NKDFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/NKDFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/Permutations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer12/PermutationsDFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer12/PermutationsDFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer13/RobertMoveCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer13/RobertMoveCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer14/MaxProductAfterCutting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer14/MaxProductAfterCutting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer14/NumberTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer14/NumberTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer15/CountNumberOf1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer15/CountNumberOf1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer16/Pow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer16/Pow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer19/RegexMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer19/RegexMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer20/RegexApply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer20/RegexApply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer21/ReorderOddEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer21/ReorderOddEven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer27/TreeMirror.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer27/TreeMirror.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer27/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer27/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer29/PrintMatrixInCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer29/PrintMatrixInCircle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer30/StackWithMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer30/StackWithMin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer30/StackWithMin_solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer30/StackWithMin_solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer31/IsPopOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer31/IsPopOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer32/PrintFromTopToBottom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer32/PrintFromTopToBottom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer32/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer32/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer33/IsBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer33/IsBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer34/FindSumPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer34/FindSumPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer34/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer34/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer38/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer38/Permutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer39/MoreThanHalfNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer39/MoreThanHalfNum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer40/GetLeastNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer40/GetLeastNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer40/GetLeastNumbersByHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer40/GetLeastNumbersByHeap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer44/DigitAtIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer44/DigitAtIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer46/GetTranslationCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer46/GetTranslationCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer47/GiftMaxValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer47/GiftMaxValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer48/BRetainAChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer48/BRetainAChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer48/LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer48/LongestSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer48/MinCover.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer48/MinCover.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer48/MinWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer48/MinWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer49/GetUglyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer49/GetUglyNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer5/ReplaceBlank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer5/ReplaceBlank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer50/FirstNotRepeating.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer50/FirstNotRepeating.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer51/InverseParis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer51/InverseParis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer52/FindFirstCommonNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer52/FindFirstCommonNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer52/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer52/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer53/FindNumInArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer53/FindNumInArr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer54/KthTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer54/KthTreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer54/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer54/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer55/TreeDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer55/TreeDepth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer55/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer55/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer56/FindNumsAppearOnce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer56/FindNumsAppearOnce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer57/FindSumS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer57/FindSumS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer58/ReverseSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer58/ReverseSentence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer59/MaxValueInWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer59/MaxValueInWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer60/PrintDicePossibility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer60/PrintDicePossibility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer61/PokerStraight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer61/PokerStraight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer62/LastRemaining.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer62/LastRemaining.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer63/MaxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer63/MaxProfit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer64/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer64/Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer65/SpecialAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer65/SpecialAdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer68/GetLastCommonParent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer68/GetLastCommonParent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer68/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer68/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer69/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer69/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer9/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer9/MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer9/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer9/MyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer9/QStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer9/QStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer9/SQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer9/SQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer9/StackAndLinkedlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer9/StackAndLinkedlist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tencent_2/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tencent_2/Monster.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PzFzEBeLu6JfD7XZhYU63b639M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -134,7 +45,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PermutationsDFS">
+  <component name="RunManager" selected="Application.Merge">
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer25.Merge" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="offer25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Monster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tencent_2.Monster" />
       <module name="offer" />
@@ -163,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge" />
         <item itemvalue="Application.PermutationsDFS" />
         <item itemvalue="Application.Monster" />
       </list>
@@ -180,7 +105,9 @@
       <updated>1566869278693</updated>
       <workItem from="1566869279920" duration="165000" />
       <workItem from="1566869497740" duration="9303000" />
-      <workItem from="1567056101881" duration="105000" />
+      <workItem from="1567056101881" duration="2906000" />
+      <workItem from="1567181751305" duration="4001000" />
+      <workItem from="1567523844380" duration="3468000" />
     </task>
     <servers />
   </component>
