@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574b48c2-0a23-4da2-8dbe-6ec198158cde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/offer25/Merge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,6 +31,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dfs" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,7 +111,8 @@
       <workItem from="1566869497740" duration="9303000" />
       <workItem from="1567056101881" duration="2906000" />
       <workItem from="1567181751305" duration="4001000" />
-      <workItem from="1567523844380" duration="3468000" />
+      <workItem from="1567523844380" duration="7630000" />
+      <workItem from="1568255061110" duration="2872000" />
     </task>
     <servers />
   </component>
