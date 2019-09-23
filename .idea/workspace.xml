@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574b48c2-0a23-4da2-8dbe-6ec198158cde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exam58/DivCookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam58/ShortPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam58/ShowSingleNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer25/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer25/Merge.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +53,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Merge">
-    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer25.Merge" />
+  <component name="RunManager" selected="Application.DivCookie">
+    <configuration name="DivCookie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam58.DivCookie" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer25.*" />
+          <option name="PATTERN" value="exam58.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Monster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tencent_2.Monster" />
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer25.Merge" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tencent_2.*" />
+          <option name="PATTERN" value="offer25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,11 +93,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShortPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam58.ShortPath" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam58.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShowSingleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam58.ShowSingleNum" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam58.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DivCookie" />
+        <item itemvalue="Application.ShortPath" />
+        <item itemvalue="Application.ShowSingleNum" />
         <item itemvalue="Application.Merge" />
         <item itemvalue="Application.PermutationsDFS" />
-        <item itemvalue="Application.Monster" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +144,8 @@
       <workItem from="1567056101881" duration="2906000" />
       <workItem from="1567181751305" duration="4001000" />
       <workItem from="1567523844380" duration="7630000" />
-      <workItem from="1568255061110" duration="3057000" />
+      <workItem from="1568255061110" duration="4970000" />
+      <workItem from="1569203537118" duration="7072000" />
     </task>
     <servers />
   </component>
@@ -131,5 +164,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exam58/ShortPath.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exam58/DivCookie.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
