@@ -1,8 +1,6 @@
 package offer59;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 
 /**
@@ -12,9 +10,10 @@ import java.util.List;
  */
 public class MaxValueInWindow {
     public static void main(String[] args) {
-        int [] data = new int[]{16,14,12,10,8,6,4};
+        int [] data = new int[]{16,22,12,24,8,15,4};
         int windowSize = 0;
-        System.out.println(maxValueInWindow_solution(data,windowSize));
+//        System.out.println(maxValueInWindow_solution(data,windowSize));
+        maxValueInWindow_priorityQueue(data,3).forEach(System.out::println);
     }
 
     /**
@@ -85,6 +84,29 @@ public class MaxValueInWindow {
         }
 
         return resultList;
+    }
+
+    /**
+     * 利用优先级队列实现窗口的最大值
+     * @param num
+     * @param size
+     * @return
+     */
+    private static List<Integer> maxValueInWindow_priorityQueue(int[] num, int size){
+        PriorityQueue<Integer> priorityQueue = new PriorityQueue<>((o1, o2) -> o2-o1);
+        List<Integer> result = new ArrayList<>();
+        int i;
+        for (i = 0 ; i < num.length; i++){
+            if (priorityQueue.size() == size){
+                result.add(priorityQueue.peek());
+                priorityQueue.remove(num[i-size]);
+                priorityQueue.add(num[i]);
+            }else {
+                priorityQueue.offer(num[i]);
+            }
+        }
+        result.add(priorityQueue.peek());
+        return result;
     }
 
 }

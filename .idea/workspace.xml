@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574b48c2-0a23-4da2-8dbe-6ec198158cde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exam58/DivCookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam58/ShortPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam58/ShowSingleNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/offer25/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer25/Merge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/exam58/DivCookie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/exam58/DivCookie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/offer59/MaxValueInWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/offer59/MaxValueInWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer59/MaxValueInWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer59/MaxValueInWindow.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DivCookie">
+  <component name="RunManager" selected="Application.MaxValueInWindow">
     <configuration name="DivCookie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exam58.DivCookie" />
       <module name="offer" />
@@ -67,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer25.Merge" />
+    <configuration name="MaxValueInWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer59.MaxValueInWindow" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer25.*" />
+          <option name="PATTERN" value="offer59.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationsDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer12.PermutationsDFS" />
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer25.Merge" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer12.*" />
+          <option name="PATTERN" value="offer25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxValueInWindow" />
         <item itemvalue="Application.DivCookie" />
         <item itemvalue="Application.ShortPath" />
         <item itemvalue="Application.ShowSingleNum" />
         <item itemvalue="Application.Merge" />
-        <item itemvalue="Application.PermutationsDFS" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +144,7 @@
       <workItem from="1567181751305" duration="4001000" />
       <workItem from="1567523844380" duration="7630000" />
       <workItem from="1568255061110" duration="4970000" />
-      <workItem from="1569203537118" duration="7072000" />
+      <workItem from="1569203537118" duration="10965000" />
     </task>
     <servers />
   </component>
@@ -177,6 +176,11 @@
           <url>file://$PROJECT_DIR$/src/exam58/DivCookie.java</url>
           <line>12</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/offer59/MaxValueInWindow.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
